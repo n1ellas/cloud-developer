@@ -17,7 +17,6 @@ Here is the repository structure:
 └── course-04
     ├── exercises
     └── project
-    hello
 ```
 
 
